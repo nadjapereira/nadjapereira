@@ -6,5 +6,4 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: nadja@nadjapereira.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I have two beautiful kittens. 
--->
+- ⚡ Fun fact: I have two beautiful kittens 🐈‍⬛🐈
