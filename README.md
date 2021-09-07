@@ -7,4 +7,4 @@
 - 📫 How to reach me: nadja@nadjapereira.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have two beautiful kittens 🐈🐈
-- All my social link accounts are <a href="https://about.me/nadjapereira"> here</a>
+- 📱 All my social link accounts are <a href="https://about.me/nadjapereira"> here</a>
