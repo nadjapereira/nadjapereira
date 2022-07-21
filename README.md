@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Estadao 💙
+- 🔭 I’m currently working at IBM 💙💙
 - 🌱 I’m currently learning Web analytics developer
 - 👯 I’m looking to collaborate on free projects fight poverty
 - 🤔 I’m looking for help with javascript, python and SQL
