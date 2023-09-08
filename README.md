@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔍 Looking for a new job opportunity as a web analytics developer 💙
-- 🎓 I'm a Postgraduate MBA in Big Data Analysis
+- 🎓 I have a Postgraduate MBA in Big Data Analysis
 - 🔭 I’m a former IBM employee 
 - 🌱 I’m currently learning Web analytics development 
 - 👯 I’m looking to collaborate on free projects for black women's rights 
