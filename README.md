@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔍 Looking for a new job opportunity as a web analytics developer 💙
+- 🔍 Looking for a new job opportunity as a data analytst/analytics developer 💙
 - 🎓 I'm a Postgraduate MBA in Big Data Analysis
 - ✨ I have SQL and Python projects pinned in this profile
 - #️⃣ I'm a founder of a social project called [#VagasdeDadosJúnior](https://linktr.ee/vagasdedadosjunior), a community to people starting in analytics. 
