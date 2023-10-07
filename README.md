@@ -13,3 +13,6 @@
 - ⚡ Fun fact: I have two beautiful kittens 🐈🐈
 - 📱 All my social link accounts are <a href="https://about.me/nadjapereira"> here</a>
 
+Check my last content right here </br> 
+[SQL](https://github.com/nadjapereira/SQL)</br>
+[Python](https://github.com/nadjapereira/Python)
