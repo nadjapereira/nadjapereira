@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🖥️ I work as a Business Analytics, and I love what I do 💙
+- 🖥️ I work with Business Analytics, and I love what I do 💙
 - 🎓 I have a Postgraduate MBA in Big Data Analysis and am currently pursuing a degree in Software Engineering
 - ✨ I have SQL and Python projects pinned on this profile
 - #️⃣ I'm the founder of a social project called #VagasdeDadosJúnior, a community for people starting in analytics
